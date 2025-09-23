@@ -1,8 +1,8 @@
 ---
-name: More Evil Kevin
+name: More Evil John
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
+website: https://johnevil.de
 photo: kevin.jpg
 ---
 
