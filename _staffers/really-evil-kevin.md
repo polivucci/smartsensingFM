@@ -1,8 +1,8 @@
 ---
-name: Really Evil Kevin
+name: Really Evil John
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
+website: https://johnreal.de
 photo: kevin.jpg
 ---
 
