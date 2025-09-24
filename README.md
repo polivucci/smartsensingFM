@@ -8,8 +8,9 @@ seo:
   name: Course Name
 ---
 
-# Welcome to 
-# "Smart sensing in fluid mechanics" (SSFM)
+![SSFM](/assets/images/SSFM.png)
+
+# Welcome to | "Smart sensing in fluid mechanics" (SSFM)
 
 This page supports the course at the Institute of Fluid Mechanics (ISM).
 Useful resources:
