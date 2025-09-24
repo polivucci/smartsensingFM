@@ -24,10 +24,10 @@ schedule:
     events:
       - name: Lecture
         start: 10:30 AM
-        end: 12:00 AM
+        end: 12:00 PM
         location: TBA
       - name: Exercise
-        start: 12:15 AM
+        start: 12:15 PM
         end: 13:00 PM
         location: TBA
       - name: Office Hours
