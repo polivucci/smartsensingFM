@@ -14,9 +14,9 @@ This page supports the course at the Institute of Fluid Mechanics (ISM).
 Useful resources:
 
 - [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- [course calendar](calendar.md),
+- [staff](staff.md) page,
+- weekly [schedule](schedule.md).
 
 
 ## General Info
