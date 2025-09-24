@@ -13,7 +13,7 @@ seo:
 This page supports the course at the Institute of Fluid Mechanics (ISM).
 Useful resources:
 
-- teaching [material](material.md),
+- teaching [materials](materials.md),
 - weekly [schedule](schedule.md).
 - [staff](staff.md) contact page
 
