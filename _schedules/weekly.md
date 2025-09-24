@@ -1,7 +1,7 @@
 ---
 timeline:
-  - '9:00 AM'
-  - '9:30 AM'
+  - '9:00'
+  - '9:30'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -28,11 +28,11 @@ schedule:
         location: TBA
       - name: Exercise
         start: 12:15 PM
-        end: 13:00 PM
+        end: 1:00 PM
         location: TBA
       - name: Office Hours
-        start: 13:00 PM
-        end: 14:00 PM
+        start: 1:00 PM
+        end: 2:00 PM
         location: Raum 128, ISM
   - name: Wednesday
   - name: Thursday
