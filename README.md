@@ -18,7 +18,7 @@ Useful resources:
 - teaching [materials](materials.md),
 - weekly [schedule](schedule.md).
 - [staff](staff.md) contact page
-
+- StudIP page.
 
 ## Announcements
 
