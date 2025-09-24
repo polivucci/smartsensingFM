@@ -18,7 +18,7 @@ tagline: Course website
 description: Course website
 author: Raj Mahadevwala
 baseurl: '/smartsensingFM' # the subpath of your site, e.g. /blog
-url: 'https://polivucci.github.io/smartsensingFM' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://polivucci.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
