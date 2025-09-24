@@ -18,7 +18,9 @@ description: >-
 
 ## Syllabus
 
-## Tutorials
+## Hands-on tutorials
+
+## Lab sessions?
 
 ## Assignments
 
