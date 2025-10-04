@@ -7,7 +7,7 @@ seo:
   type: Course
   name: Course Name
 ---
-<img src="/assets/images/disagreement.png" alt="drawing" height="100"/>
+<img src="/assets/images/disagreement.png" alt="drawing" height="200"/>
 [//]: # ("![SSFM](/assets/images/SSFMlogo.png)")
 
 # Welcome to <br/> **"Smart sensing in fluid mechanics"** (SSFM)
