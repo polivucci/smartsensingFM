@@ -7,5 +7,3 @@ photo: kevin.jpg
 meta:
   Office Hours: Tue 1pm-2pm
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
