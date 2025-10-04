@@ -18,10 +18,10 @@ description: >-
 
 ## Slides
 
-1. slide deck 1
-2. slide deck 2
+1. Slide deck 1
+2. [Slide deck 2](https://drive.google.com/file/d/1RxCi6nJGrnIOpcuN8idT_z69YpdOSs2Q/view?usp=drive_link)
 
 ## Coding tutorials
 
-1. code 1
-2. code 2
+1. [Tutorial 1](https://drive.google.com/file/d/1BDhborOiQDQXUQVHDM1prVXw8I5a__8i/view?usp=drive_link)
+2. Tutorial 2
