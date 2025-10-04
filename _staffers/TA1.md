@@ -1,8 +1,8 @@
 ---
-name: A. V.
+name: A. G. V.
 role: Teaching Assistant
-email: me@example.com
-website: https://john.de
+email: name@tu-braunschweig.de
+website: https://www.tu-braunschweig.de
 photo: kevin.jpg
 ---
 
