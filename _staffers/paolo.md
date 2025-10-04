@@ -1,5 +1,5 @@
 ---
-name: Paolo
+name: Paolo O
 role: Instructor
 email: p.olivucci@tu-braunschweig.de
 website: [https://polivucci.github.io/](https://polivucci.github.io/)
