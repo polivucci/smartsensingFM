@@ -9,7 +9,7 @@ seo:
 ---
 ![SSFM](/assets/images/SSFMlogo.png)
 
-# Welcome to <br/> "Smart sensing in fluid mechanics" (SSFM)
+# Welcome to <br/> **"Smart sensing in fluid mechanics"** (SSFM)
 
 This page supports the titular course at the Institut für Strömungsmechanik (ISM), TU Braunschweig.
 Useful resources:
