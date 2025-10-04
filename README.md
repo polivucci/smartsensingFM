@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Course Name
-nav_exclude: true
+title: Home
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
