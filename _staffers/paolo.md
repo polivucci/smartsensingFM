@@ -1,7 +1,7 @@
 ---
-name: Paolo O.
+name: Paolo O
 role: Instructor
-email: me@example.com
+email: p.olivucci@tu-braunschweig.de
 website: [https://polivucci.github.io/](https://polivucci.github.io/)
 photo: kevin.jpg
 meta:
