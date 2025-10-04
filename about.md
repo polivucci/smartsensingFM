@@ -20,8 +20,6 @@ description: >-
 
 ## Hands-on tutorials
 
-## Lab sessions?
-
 ## Assignments
 
 ## Final exam
